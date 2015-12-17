@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleGallery</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_image_available">No image available</string>
+    <string name="dialog_settings">Settings dialog</string>
+    <string name="caption_path_tv">Path</string>
+    <string name="caption_duration_tv">Pause duration</string>
+</resources>
